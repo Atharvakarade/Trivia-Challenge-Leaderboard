@@ -9,7 +9,8 @@ The TriviaLeaderboard smart contract is a decentralized trivia game on the Ether
 The contract leverages Solidity and Ethereum's decentralized ledger to ensure fair play, transparency, and immutability in the trivia game.
 
 ## Contract Address
-0xdA3539a0Cccc53869a433c727016bA8268E1a9c4
+![image](https://github.com/user-attachments/assets/5f16e980-9bef-42a4-8a0d-aa0889bf3724)
+
 
 ## Project Vision
 The vision of TriviaLeaderboard is to provide an engaging, secure, and transparent trivia game experience where participants are rewarded based on their performance. By using blockchain technology, the game ensures fairness, as all actions are recorded on the blockchain and cannot be tampered with. Over time, the platform aims to expand to more questions, different game modes, and a broader community of players.
